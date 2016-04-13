@@ -1,0 +1,23 @@
+{
+  "name": "isempty",
+  "version": "0.0.1",
+  "description": "Check for empty values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjay-khurana/isEmptyModule.git"
+  },
+  "keywords": [
+    "Empty",
+    "Check"
+  ],
+  "author": "Sanjay Khurana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjay-khurana/isEmptyModule/issues"
+  },
+  "homepage": "https://github.com/sanjay-khurana/isEmptyModule#readme"
+}
